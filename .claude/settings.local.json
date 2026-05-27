@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "PowerShell(git clone \"https://github.com/Jorge-Ruiz-Troccoli/Data-Science-II.git\" \"$env:TEMP\\\\ds2_repo\" 2>&1 | Select-Object -Last 5)",
+      "mcp__f03ad8e4-b6f8-4c46-ba2e-bfa9914c83dd__notion-search",
+      "mcp__f03ad8e4-b6f8-4c46-ba2e-bfa9914c83dd__notion-fetch"
+    ]
+  }
+}

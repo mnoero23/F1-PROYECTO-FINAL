@@ -1,0 +1,13 @@
+Tarea,Modelo,MAE,RMSE,R²,AUC,Accuracy
+Regresión,Dummy (media),4.054,4.797,-0.0,—,—
+Regresión,Regresión Lineal,2.541,3.244,0.542,—,—
+Clasificación,Dummy (estratificado),—,—,—,0.466,0.556
+Clasificación,Regresión Logística,—,—,—,0.881,0.778
+Regresión,Random Forest,2.275,2.957,0.62,—,—
+Regresión,XGBoost,2.238,2.933,0.626,—,—
+Clasificación,Random Forest,—,—,—,0.903,0.817
+Clasificación,XGBoost,—,—,—,0.905,0.811
+Regresión,Random Forest,2.275,2.957,0.62,—,—
+Regresión,XGBoost,2.238,2.933,0.626,—,—
+Clasificación,Random Forest,—,—,—,0.903,0.817
+Clasificación,XGBoost,—,—,—,0.905,0.811
