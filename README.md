@@ -49,6 +49,7 @@
 > **¿Qué factores predicen mejor la posición final de un piloto en carrera?**
 
 ### Hipótesis
+
 | Hipótesis | Resultado |
 |-----------|-----------|
 | H1: La posición de grilla es el predictor más fuerte | ✅ Confirmada — SHAP feature #1, r=0.67 |
