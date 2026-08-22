@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+anaconda_projects/
+.claude/settings.local.json
+*.db
+*.sqlite*
+e --abort
