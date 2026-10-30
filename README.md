@@ -3,6 +3,11 @@
 **Curso:** Data Scientist II — 2026
 **Entrega:** 25 de junio de 2026
 **Estado:** ✅ Pipeline completo — EDA, modelado, interpretabilidad
+
+<p align="center">
+  <img src="./figures/07_resumen_final.png" alt="Resumen del análisis y los modelos del proyecto de Formula 1" width="100%">
+</p>
+
 ---
 ## Resumen de resultados
 | Modelo | Tarea | Métrica principal | Resultado |
