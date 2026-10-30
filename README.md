@@ -5,7 +5,7 @@
 **Estado:** ✅ Pipeline completo — EDA, modelado, interpretabilidad
 
 <p align="center">
-  <img src="./figures/07_resumen_final.png" alt="Resumen del análisis y los modelos del proyecto de Formula 1" width="100%">
+  <img src="./figures/06_comparacion_modelos.png" alt="Comparación de MAE, R² y ROC-AUC de los modelos finales de regresión y clasificación" width="100%">
 </p>
 
 ---
