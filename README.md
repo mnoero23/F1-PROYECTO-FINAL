@@ -3,6 +3,11 @@
 **Curso:** Data Scientist II — 2026
 **Entrega:** 25 de junio de 2026
 **Estado:** ✅ Pipeline completo — EDA, modelado, interpretabilidad
+
+<p align="center">
+  <img src="./figures/06_comparacion_modelos.png" alt="Comparación de MAE, R² y ROC-AUC de los modelos finales de regresión y clasificación" width="100%">
+</p>
+
 ---
 ## Resumen de resultados
 | Modelo | Tarea | Métrica principal | Resultado |
